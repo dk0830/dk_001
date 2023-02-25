@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dk0830
 - 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python, UiPath
 - 💞️ I’m looking to collaborate on ... Not sure, but reach out and I'll see what I can do
 - 📫 How to reach me ... send email via git hub
 
